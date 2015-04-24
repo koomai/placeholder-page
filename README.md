@@ -1,2 +1,3 @@
-# placeholder-page
-Just a starter page
+# Placeholder Page
+
+Just a placeholder page with bootstrap skeleton.
